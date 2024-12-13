@@ -34,7 +34,7 @@ I work with **AWS, Azure, GCP**, and the coolest security tools out there. Let�
 
 ---
 
-## 🏗️ **Projects by Difficulty Level**
+## 🏗️ **Projects**
 
 ### 🟢 **Low-Level Projects**
 
