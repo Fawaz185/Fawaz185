@@ -1,6 +1,6 @@
 # 👋 **Hey there! I'm Fawaz — Cloud Security Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fawaz-s-3ba300188/)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawazosaba@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fawaz-s-3ba300188/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawazosaba@gmail.com)
 
 ---
 
@@ -123,4 +123,7 @@ I work with **AWS, Azure, GCP**, and the coolest security tools out there. Let�
 
 ## 📫 **Let’s Connect!**
 
+- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/fawaz-s-3ba300188/)  
+- 📧 **Email**: [fawazosaba@gmail.com](mailto:fawaz@example.com)
+- 
 Feel free to reach out if you're interested in collaboration, need help securing cloud environments, or want to discuss security solutions. Let’s secure the cloud together! 🚀🔒
