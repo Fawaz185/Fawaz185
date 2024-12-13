@@ -17,6 +17,24 @@ I work with **AWS, Azure, GCP**, and the coolest security tools out there. Let�
 
 ---
 
+## 🛠️ **My Superpowers**
+
+| **Category**                    | **Skills**                                                                                      |
+|---------------------------------|-----------------------------------------------------------------------------------------------|
+| ☁️ **Cloud Platforms**          | AWS (EC2, S3, IAM), Azure (VMs, Key Vault, Azure AD), GCP (Compute Engine, IAM, Cloud Storage)|
+| ⚙️ **DevSecOps & Automation**   | CI/CD (GitHub Actions, Jenkins), IaC (Terraform, CloudFormation), Python, Bash                |
+| 🔒 **Security Tools**           | SAST (SonarQube), DAST (OWASP ZAP), Docker, Kubernetes, Aqua Security                         |
+| 🔑 **Identity & Access Mgmt**   | AWS IAM, Azure AD, GCP IAM, RBAC, Identity Federation                                         |
+| 🌐 **Network Security**         | VPCs, Security Groups, Network ACLs, AWS WAF, Azure Firewall                                  |
+| 🔐 **Data Security**            | Encryption (at rest & in transit), AWS KMS, Azure Key Vault, DLP                              |
+| 📜 **Compliance**               | NIST, CIS Benchmarks, GDPR, HIPAA, ISO 27001, AWS Config, Azure Policy                       |
+| 🔍 **Monitoring & Logging**     | CloudWatch, Azure Monitor, Splunk, CloudTrail                                                 |
+| 🚨 **Incident Response**        | AWS GuardDuty, Security Hub, Azure Defender, Forensics, Log Analysis                         |
+| 🦾 **Threat Detection**         | AWS Inspector, IDS/IPS, Azure Defender                                                        |
+| ⚡ **Serverless Security**       | AWS Lambda Security, Azure Functions Security, API Gateway Security                           |
+
+---
+
 ## 🏗️ **AWS Projects: Beginner to Expert**
 
 ### 🟢 **Beginner-Level AWS Projects**
@@ -111,6 +129,68 @@ I work with **AWS, Azure, GCP**, and the coolest security tools out there. Let�
 4. **Multi-Region Disaster Recovery with Security Controls**
    - **Description**: Implemented disaster recovery across multiple AWS regions with encryption and IAM controls.  
    - **Skills**: Multi-Region Deployments, Encryption, IAM, RTO/RPO  
+   - [🔗 GitHub Repo](#)
+
+---
+## 🚀 **Azure Projects: Beginner to Expert**
+
+### 🟢 **Beginner-Level Azure Projects**
+
+1. **Secure Azure Storage Account**
+   - **Description**: Configured an Azure Storage Account with encryption and access policies.  
+   - **Skills**: Azure Storage, Encryption, IAM  
+   - [🔗 GitHub Repo](#)
+
+2. **Basic Azure AD Role Setup**
+   - **Description**: Implemented least-privilege roles in Azure Active Directory.  
+   - **Skills**: Azure AD, RBAC  
+   - [🔗 GitHub Repo](#)
+
+3. **Deploy a Web App on Azure VM**
+   - **Description**: Deployed a web application on an Azure Virtual Machine with secure networking.  
+   - **Skills**: Azure VM, NSGs (Network Security Groups), Networking Basics  
+   - [🔗 GitHub Repo](#)
+
+---
+
+### 🟡 **Intermediate-Level Azure Projects**
+
+1. **Secure VNet and Networking in Azure**
+   - **Description**: Set up a Virtual Network with subnets, NSGs, and Azure Firewall.  
+   - **Skills**: Azure VNet, Subnets, NSGs, Azure Firewall  
+   - [🔗 GitHub Repo](#)
+
+2. **Compliance Automation with Azure Policy**
+   - **Description**: Enforced compliance standards using Azure Policy.  
+   - **Skills**: Azure Policy, Compliance  
+   - [🔗 GitHub Repo](#)
+
+---
+
+### 🔴 **Advanced-Level Azure Projects**
+
+1. **DevSecOps Pipeline with Azure DevOps**
+   - **Description**: Built a CI/CD pipeline with security checks using Azure DevOps.  
+   - **Skills**: Azure DevOps, SAST, DAST, YAML  
+   - [🔗 GitHub Repo](#)
+
+2. **Azure Kubernetes Service (AKS) Security Hardening**
+   - **Description**: Secured an AKS cluster with RBAC and network policies.  
+   - **Skills**: AKS, Kubernetes, RBAC, Network Policies  
+   - [🔗 GitHub Repo](#)
+
+---
+
+### 🔥 **Expert-Level Azure Projects**
+
+1. **Incident Response with Azure Sentinel**
+   - **Description**: Automated incident detection and response using Azure Sentinel.  
+   - **Skills**: Azure Sentinel, Automation, Incident Response  
+   - [🔗 GitHub Repo](#)
+
+2. **Cloud Security Posture Management for Azure**
+   - **Description**: Implemented CSPM for Azure resources to ensure continuous compliance.  
+   - **Skills**: CSPM, Azure Security Center, Compliance  
    - [🔗 GitHub Repo](#)
 
 ---
