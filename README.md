@@ -123,18 +123,15 @@ These hands-on projects will help you master all the core aspects of cybersecuri
 
 ---
 
-## 🎓 **Essential Certifications**
+## 🎓 **Certifications**
 
 These certifications are the most relevant and achievable for a **Cybersecurity Engineer**:
 
 1. **CompTIA Security+**  
-   - Covers fundamental security concepts, tools, and procedures.
 
 2. **GIAC Certified Incident Handler (GCIH)**  
-   - Focuses on incident response, threat detection, and mitigation.
 
 3. **AWS Certified Security Specialty**  
-   - Covers cloud security, AWS threat detection, and cloud incident response.
 
 ---
 
