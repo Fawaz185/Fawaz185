@@ -1,213 +1,148 @@
-# 🏂 **Hey there! I'm Fawaz — Cloud Security Engineer**
+<!-- GitHub Landing Page for Fawaz - Cybersecurity Engineer -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fawaz-s-3ba300188/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawazosaba@gmail.com)  
+# 🚀 **Fawaz - Cybersecurity Engineer**  
 
----
+🔒 Passionate about securing systems, detecting threats, and responding to incidents to protect organizations from cyber threats. Hands-on learner dedicated to mastering all aspects of cybersecurity engineering.
 
-## 🌟 **About Me**
-
-I’m a **Cloud Security Engineer** who thrives at the intersection of **Cloud Security**, **DevSecOps**, and **Cybersecurity**. I love:
-
-- 🛠️ Building secure cloud infrastructure  
-- 🔄 Automating security into DevOps workflows  
-- 🔒 Keeping systems compliant and threat-resistant  
-
-I work with **AWS, Azure, GCP**, and the coolest security tools out there. Let’s dive into some of my work!
+📧 **Email**: [fawazosaba@gmail.com](mailto:fawazosaba@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/fawaz-s-3ba300188](https://www.linkedin.com/in/fawaz-s-3ba300188/)  
 
 ---
 
-## 🛠️ **My Superpowers**
+## 📊 **Skills & Technologies**
 
-| **Category**                    | **Skills**                                                                                      |
-|---------------------------------|-----------------------------------------------------------------------------------------------|
-| ☁️ **Cloud Platforms**          | AWS (EC2, S3, IAM), Azure (VMs, Key Vault, Azure AD), GCP (Compute Engine, IAM, Cloud Storage)|
-| ⚙️ **DevSecOps & Automation**   | CI/CD (GitHub Actions, Jenkins), IaC (Terraform, CloudFormation), Python, Bash                |
-| 🔒 **Security Tools**           | SAST (SonarQube), DAST (OWASP ZAP), Docker, Kubernetes, Aqua Security                         |
-| 🔑 **Identity & Access Mgmt**   | AWS IAM, Azure AD, GCP IAM, RBAC, Identity Federation                                         |
-| 🌐 **Network Security**         | VPCs, Security Groups, Network ACLs, AWS WAF, Azure Firewall                                  |
-| 🔐 **Data Security**            | Encryption (at rest & in transit), AWS KMS, Azure Key Vault, DLP                              |
-| 📜 **Compliance**               | NIST, CIS Benchmarks, GDPR, HIPAA, ISO 27001, AWS Config, Azure Policy                       |
-| 🔍 **Monitoring & Logging**     | CloudWatch, Azure Monitor, Splunk, CloudTrail                                                 |
-| 🚨 **Incident Response**        | AWS GuardDuty, Security Hub, Azure Defender, Forensics, Log Analysis                         |
-| 🦾 **Threat Detection**         | AWS Inspector, IDS/IPS, Azure Defender                                                        |
-| ⚡ **Serverless Security**       | AWS Lambda Security, Azure Functions Security, API Gateway Security                           |
-
----
-
-## 🏗️ **AWS Projects: Beginner to Expert**
-
-### 🟢 **Beginner-Level AWS Projects**
-
-1. **Secure S3 Bucket Configuration**
-   - **Description**: Configured an S3 bucket with encryption, versioning, and secure access policies.  
-   - **Skills**: AWS S3, IAM, Encryption, Access Policies  
-   - [🔗 GitHub Repo](#)
-
-2. **Basic IAM Role and Policy Setup**
-   - **Description**: Implemented least-privilege IAM roles and policies for various AWS services.  
-   - **Skills**: AWS IAM, Policy Creation, Identity Federation  
-   - [🔗 GitHub Repo](#)
-
-3. **Deploy a Simple Web Application on EC2**
-   - **Description**: Launched an EC2 instance with proper security group configurations and hosted a simple web application.  
-   - **Skills**: EC2, Security Groups, Networking Basics  
-   - [🔗 GitHub Repo](#)
-
-4. **Set Up AWS CloudTrail for Logging and Monitoring**
-   - **Description**: Enabled CloudTrail to log all API activities for monitoring purposes.  
-   - **Skills**: AWS CloudTrail, Logging, Monitoring  
-   - [🔗 GitHub Repo](#)
+| **Category**                   | **Skills & Tools**                                                                                   |
+|--------------------------------|------------------------------------------------------------------------------------------------------|
+| **Network Security**           | Wireshark, Nmap, Snort, TCP/IP, Firewalls, VPNs, IDS/IPS                                            |
+| **Endpoint Security**          | Windows Defender, CrowdStrike, Carbon Black, EDR Solutions                                          |
+| **SIEM Tools**                 | Splunk, ELK Stack, Azure Sentinel, QRadar                                                           |
+| **Incident Response**          | Forensics, Malware Analysis, Threat Containment, MITRE ATT&CK Framework                            |
+| **Threat Detection**           | YARA Rules, Snort Rules, Detection Engineering, Log Analysis                                        |
+| **Cloud Security**             | AWS Security, Azure Security Center, CloudTrail, GuardDuty                                          |
+| **Scripting & Automation**     | Python, Bash, PowerShell, Automation with SOAR Tools                                                |
+| **Vulnerability Management**   | Nessus, OpenVAS, Qualys, CVSS Scoring                                                               |
+| **Digital Forensics**          | Autopsy, FTK Imager, EnCase, Memory Analysis, Disk Imaging                                          |
+| **Frameworks & Standards**     | NIST, CIS Controls, ISO 27001, GDPR, HIPAA                                                          |
 
 ---
 
-### 🟡 **Intermediate-Level AWS Projects**
+## 🛠️ **Projects**
 
-1. **Secure VPC and Networking Setup**
-   - **Description**: Configured a VPC with public and private subnets, security groups, and network ACLs for secure networking.  
-   - **Skills**: VPCs, Subnets, Security Groups, Network ACLs  
-   - [🔗 GitHub Repo](#)
-
-2. **Automate Compliance Checks with AWS Config**
-   - **Description**: Enforced compliance with CIS Benchmarks using AWS Config rules.  
-   - **Skills**: AWS Config, Compliance Automation  
-   - [🔗 GitHub Repo](#)
-
-3. **CI/CD Pipeline with Basic Security Checks**
-   - **Description**: Built a CI/CD pipeline using GitHub Actions with SAST (SonarQube) checks.  
-   - **Skills**: GitHub Actions, SAST, YAML, Python  
-   - [🔗 GitHub Repo](#)
-
-4. **Enable AWS GuardDuty for Threat Detection**
-   - **Description**: Configured GuardDuty to monitor and detect threats in the AWS environment.  
-   - **Skills**: AWS GuardDuty, Threat Detection  
-   - [🔗 GitHub Repo](#)
+These hands-on projects will help you master all the core aspects of cybersecurity engineering.
 
 ---
 
-### 🔴 **Advanced-Level AWS Projects**
+### 🔹 **Beginner-Level Projects**
 
-1. **Multi-Account Security Strategy with AWS Organizations**
-   - **Description**: Implemented security strategies across multiple AWS accounts using Service Control Policies (SCPs).  
-   - **Skills**: AWS Organizations, SCPs, IAM  
-   - [🔗 GitHub Repo](#)
+#### 1. **Network Traffic Analysis with Wireshark**
+- **Description**: Analyze network traffic to identify anomalies and potential threats.
+- **Skills Learned**: Packet analysis, TCP/IP fundamentals, protocol analysis.
+- **Tools**: Wireshark, TCPDump.
 
-2. **Full DevSecOps Pipeline with SAST and DAST Integration**
-   - **Description**: Built a CI/CD pipeline with integrated SAST (SonarQube) and DAST (OWASP ZAP) checks.  
-   - **Skills**: GitHub Actions, Jenkins, SonarQube, OWASP ZAP  
-   - [🔗 GitHub Repo](#)
+#### 2. **Port Scanning and Service Enumeration**
+- **Description**: Perform network scans to identify open ports and running services.
+- **Skills Learned**: Network scanning, service enumeration, vulnerability identification.
+- **Tools**: Nmap.
 
-3. **Kubernetes Security Hardening on EKS**
-   - **Description**: Secured an EKS cluster with RBAC, network policies, and image scanning.  
-   - **Skills**: EKS, Kubernetes, RBAC, Aqua Security  
-   - [🔗 GitHub Repo](#)
-
-4. **Automated Incident Response with Lambda and GuardDuty**
-   - **Description**: Automated incident response using GuardDuty findings and Lambda functions.  
-   - **Skills**: AWS GuardDuty, Lambda, Python, Automation  
-   - [🔗 GitHub Repo](#)
+#### 3. **Home Lab SOC Setup**
+- **Description**: Set up a basic Security Operations Center (SOC) environment for log collection and analysis.
+- **Skills Learned**: SIEM configuration, log management, basic intrusion detection.
+- **Tools**: Splunk, Snort, Ubuntu.
 
 ---
 
-### 🔥 **Expert-Level AWS Projects**
+### ⚙️ **Intermediate-Level Projects**
 
-1. **Serverless Security Architecture with AWS Lambda and API Gateway**
-   - **Description**: Built a secure serverless application using Lambda, API Gateway, and IAM.  
-   - **Skills**: AWS Lambda, API Gateway, IAM, Encryption  
-   - [🔗 GitHub Repo](#)
+#### 4. **Automated Threat Detection with Python**
+- **Description**: Write Python scripts to automate malware detection using YARA rules.
+- **Skills Learned**: Scripting, automation, threat detection.
+- **Tools**: Python, YARA.
 
-2. **Cloud Security Posture Management (CSPM) for AWS**
-   - **Description**: Implemented a CSPM solution to monitor AWS security posture using Prisma Cloud and Checkov.  
-   - **Skills**: CSPM, Prisma Cloud, Checkov, Compliance Automation  
-   - [🔗 GitHub Repo](#)
+#### 5. **Incident Response Simulation**
+- **Description**: Simulate a ransomware attack and conduct an incident response process.
+- **Skills Learned**: Incident handling, containment, forensics.
+- **Tools**: Windows Defender, PowerShell, FTK Imager.
 
-3. **Advanced Threat Detection and Response Pipeline**
-   - **Description**: Developed a threat detection and response pipeline using GuardDuty, Security Hub, and Lambda automation.  
-   - **Skills**: AWS GuardDuty, Security Hub, Automation, Python  
-   - [🔗 GitHub Repo](#)
+#### 6. **Vulnerability Scanning and Patch Management**
+- **Description**: Perform vulnerability scans and remediate identified issues.
+- **Skills Learned**: Vulnerability management, patching, risk assessment.
+- **Tools**: Nessus, OpenVAS, Qualys.
 
-4. **Multi-Region Disaster Recovery with Security Controls**
-   - **Description**: Implemented disaster recovery across multiple AWS regions with encryption and IAM controls.  
-   - **Skills**: Multi-Region Deployments, Encryption, IAM, RTO/RPO  
-   - [🔗 GitHub Repo](#)
-
----
-## 🚀 **Azure Projects: Beginner to Expert**
-
-### 🟢 **Beginner-Level Azure Projects**
-
-1. **Secure Azure Storage Account**
-   - **Description**: Configured an Azure Storage Account with encryption and access policies.  
-   - **Skills**: Azure Storage, Encryption, IAM  
-   - [🔗 GitHub Repo](#)
-
-2. **Basic Azure AD Role Setup**
-   - **Description**: Implemented least-privilege roles in Azure Active Directory.  
-   - **Skills**: Azure AD, RBAC  
-   - [🔗 GitHub Repo](#)
-
-3. **Deploy a Web App on Azure VM**
-   - **Description**: Deployed a web application on an Azure Virtual Machine with secure networking.  
-   - **Skills**: Azure VM, NSGs (Network Security Groups), Networking Basics  
-   - [🔗 GitHub Repo](#)
+#### 7. **Cloud Security Monitoring Dashboard**
+- **Description**: Create a cloud security dashboard to monitor AWS logs and alerts.
+- **Skills Learned**: Cloud security, log analysis, monitoring.
+- **Tools**: AWS CloudWatch, AWS GuardDuty, Elasticsearch.
 
 ---
 
-### 🟡 **Intermediate-Level Azure Projects**
+### 🔥 **Advanced-Level Projects**
 
-1. **Secure VNet and Networking in Azure**
-   - **Description**: Set up a Virtual Network with subnets, NSGs, and Azure Firewall.  
-   - **Skills**: Azure VNet, Subnets, NSGs, Azure Firewall  
-   - [🔗 GitHub Repo](#)
+#### 8. **Enterprise-Level Threat Detection Rules**
+- **Description**: Develop custom detection rules in Splunk to identify sophisticated attacks.
+- **Skills Learned**: Detection engineering, SIEM optimization.
+- **Tools**: Splunk, MITRE ATT&CK.
 
-2. **Compliance Automation with Azure Policy**
-   - **Description**: Enforced compliance standards using Azure Policy.  
-   - **Skills**: Azure Policy, Compliance  
-   - [🔗 GitHub Repo](#)
+#### 9. **Digital Forensics Investigation**
+- **Description**: Conduct a forensic investigation of a compromised system.
+- **Skills Learned**: Disk imaging, memory analysis, evidence preservation.
+- **Tools**: Autopsy, FTK Imager, EnCase.
 
----
+#### 10. **Cloud Incident Response Plan**
+- **Description**: Create and implement an incident response plan for cloud environments.
+- **Skills Learned**: Cloud forensics, incident response strategy.
+- **Tools**: AWS GuardDuty, Azure Security Center.
 
-### 🔴 **Advanced-Level Azure Projects**
+#### 11. **Building a SOAR Workflow for Automated Incident Response**
+- **Description**: Develop automated playbooks to respond to incidents.
+- **Skills Learned**: Automation, orchestration, incident response.
+- **Tools**: Cortex XSOAR, Splunk SOAR.
 
-1. **DevSecOps Pipeline with Azure DevOps**
-   - **Description**: Built a CI/CD pipeline with security checks using Azure DevOps.  
-   - **Skills**: Azure DevOps, SAST, DAST, YAML  
-   - [🔗 GitHub Repo](#)
-
-2. **Azure Kubernetes Service (AKS) Security Hardening**
-   - **Description**: Secured an AKS cluster with RBAC and network policies.  
-   - **Skills**: AKS, Kubernetes, RBAC, Network Policies  
-   - [🔗 GitHub Repo](#)
-
----
-
-### 🔥 **Expert-Level Azure Projects**
-
-1. **Incident Response with Azure Sentinel**
-   - **Description**: Automated incident detection and response using Azure Sentinel.  
-   - **Skills**: Azure Sentinel, Automation, Incident Response  
-   - [🔗 GitHub Repo](#)
-
-2. **Cloud Security Posture Management for Azure**
-   - **Description**: Implemented CSPM for Azure resources to ensure continuous compliance.  
-   - **Skills**: CSPM, Azure Security Center, Compliance  
-   - [🔗 GitHub Repo](#)
+#### 12. **Penetration Testing and Exploitation**
+- **Description**: Perform penetration tests on a simulated environment and document findings.
+- **Skills Learned**: Ethical hacking, exploitation, reporting.
+- **Tools**: Metasploit, Burp Suite, Nmap.
 
 ---
 
-## 🏅 **Certifications**
+### 💀 **Extreme Difficulty Projects**
 
-- ✅ **AWS Certified Security – Specialty**  
-- ✅ **Microsoft Azure Security Engineer Associate**  
-- ✅ **Certified Cloud Security Professional (CCSP)**  
-- ✅ **CompTIA Security+**  
+#### 13. **Advanced Malware Reverse Engineering**
+- **Description**: Reverse engineer complex malware to understand its functionality and develop countermeasures.
+- **Skills Learned**: Reverse engineering, static and dynamic analysis, debugging.
+- **Tools**: Ghidra, IDA Pro, OllyDbg.
+
+#### 14. **Red Team vs. Blue Team Simulation**
+- **Description**: Conduct a full-scale attack and defense simulation in an enterprise lab environment.
+- **Skills Learned**: Offensive and defensive security, teamwork, real-world attack mitigation.
+- **Tools**: Kali Linux, Cobalt Strike, Splunk, Snort.
+
+#### 15. **Custom SIEM Development**
+- **Description**: Develop a lightweight SIEM tool using Python for log collection, parsing, and threat detection.
+- **Skills Learned**: Python programming, log analysis, threat detection.
+- **Tools**: Python, Elasticsearch, Kibana.
 
 ---
 
-## 📫 **Let’s Connect!**
+## 🎓 **Essential Certifications**
 
-- 📧 **Email**: [fawazosaba@gmail.com](mailto:fawazosaba@gmail.com)  
-- 🌐 **LinkedIn**: [Fawaz S.](https://www.linkedin.com/in/fawaz-s-3ba300188/)  
+These certifications are the most relevant and achievable for a **Cybersecurity Engineer**:
 
-Let’s secure the cloud together! 🚀🔒
+1. **CompTIA Security+**  
+   - Covers fundamental security concepts, tools, and procedures.
 
+2. **GIAC Certified Incident Handler (GCIH)**  
+   - Focuses on incident response, threat detection, and mitigation.
+
+3. **AWS Certified Security Specialty**  
+   - Covers cloud security, AWS threat detection, and cloud incident response.
+
+---
+
+## 🔗 **Connect With Me**
+
+- 💼 **LinkedIn**: [linkedin.com/in/fawaz-s-3ba300188](https://www.linkedin.com/in/fawaz-s-3ba300188/)  
+- 📫 **Email**: [fawazosaba@gmail.com](mailto:fawazosaba@gmail.com)
+
+---
+
+🔒 **Let’s work together to secure the digital world!** 🚀
