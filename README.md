@@ -1,6 +1,6 @@
 <!-- GitHub Landing Page for Fawaz - Cybersecurity Engineer -->
 
-# 🚀 **Fawaz - Cybersecurity Engineer**  
+# 🚀 **Fawaz - Security Engineer**  
 
 🔒 Passionate about securing systems, detecting threats, and responding to incidents to protect organizations from cyber threats. Hands-on learner dedicated to mastering all aspects of cybersecurity engineering.
 
