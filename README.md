@@ -28,8 +28,6 @@
 
 ## 🛠️ **Projects**
 
-These hands-on projects will help you master all the core aspects of cybersecurity engineering.
-
 ---
 
 ### 🔹 **Beginner-Level Projects**
